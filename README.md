@@ -5,7 +5,7 @@
 
 GoXSScanner is a high-performance tool for detecting reflected cross-site scripting (XSS) vulnerabilities in web applications. Written in Go, this scanner offers a combination of speed, accuracy, and flexibility for security professionals and penetration testers.
 
-<img src="https://github.com/vijay922/XSS-Scanner/blob/main/Logo.png?raw=true" alt="GoXSScanner" width="600"/>
+<img src="https://github.com/vijay922/GoXSScanner/blob/main/Logo.png?raw=true" alt="GoXSScanner" width="600"/>
 
 
 ## Features
@@ -45,7 +45,7 @@ GoXSScanner is a high-performance tool for detecting reflected cross-site script
 ### Install from source
 ```bash
 # Clone the repository
-git clone https://github.com/vijay922/XSS-Scanner.git
+git clone https://github.com/vijay922/GoXSScanner.git
 cd goxssscanner
 
 # Build the binary
