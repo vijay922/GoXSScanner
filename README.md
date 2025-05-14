@@ -44,7 +44,7 @@ GoXSScanner is a high-performance tool for detecting reflected cross-site script
 ### Install from source
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/goxssscanner.git
+git clone https://github.com/vijay922/XSS-Scanner.git
 cd goxssscanner
 
 # Build the binary
