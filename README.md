@@ -48,7 +48,7 @@ git clone https://github.com/vijay922/XSS-Scanner.git
 cd goxssscanner
 
 # Build the binary
-go build -o goxssscanner xss.go
+go build -o goxssscanner xss_scanner.go
 
 # Make it executable (Linux/macOS)
 chmod +x goxssscanner
