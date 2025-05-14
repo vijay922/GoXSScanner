@@ -7,6 +7,9 @@ GoXSScanner is a high-performance tool for detecting reflected cross-site script
 
 ![GoXSScanner](https://github.com/vijay922/XSS-Scanner/blob/main/Logo.png?raw=true)
 
+<img src="https://github.com/vijay922/XSS-Scanner/blob/main/Logo.png?raw=true" alt="GoXSScanner" width="600"/>
+
+
 ## Features
 
 ### Detection & Innovation
