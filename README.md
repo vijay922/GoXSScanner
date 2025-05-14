@@ -166,4 +166,35 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Disclaimer
 
-This tool is provided for educational and professional security testing purposes only. The authors are not responsible for any misuse or damage caused by this program. Use responsibly.
+**Use this tool only for ethical hacking and authorized penetration testing.** Unauthorized use is illegal.
+
+## Notes:
+```
+This script is for educational and authorized testing purposes only.
+
+Always ensure you have explicit permission to test the target systems.
+
+The script may need further customization depending on the target environment and WAF configurations.
+```
+
+<h2 id="donate" align="center">⚡️ Support</h2>
+
+<details>
+<summary>☕ Buy Me A Coffee</summary>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/vijay922">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
+
+</details>
+
+<p align="center">
+  <b><i>"Keep pushing forward. Never surrender."</i></b>
+</p>
+
+<p align="center">🌱</p>
+
+## Author
+[chippa vijay kumar](https://github.com/vijay922)
